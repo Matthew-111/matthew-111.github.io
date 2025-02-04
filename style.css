@@ -17,6 +17,7 @@ nav {
     display: flex;
     padding: 10px;
     margin-bottom: 20px;
+    border-radius: 20px;
 }
 
 h1 {
@@ -49,6 +50,7 @@ main {
     background: rgb(245, 238, 219);
     display: flex;
     margin-top: 20px;
+    border-radius: 20px;
 }
 
 .sidebar {
@@ -89,7 +91,7 @@ h2, h3 {
   #portfolio li {
     background: #fff;
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 50px;
     margin-bottom: 10px;
   }
   
