@@ -1,12 +1,12 @@
 body {
     background: rgb(8, 0,50);
     color: rgb(0, 0, 0);
-    padding: 100px;
+    padding: 150px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
 #all-contents {
-    max-width: 800px;
+    max-width: 850px;
     margin: auto;
 }
 
@@ -54,12 +54,13 @@ main {
 }
 
 .sidebar {
-    margin-right: 25px;
+    margin-right: 20px;
     padding: 10px;
 }
 
 .sidebar-img {
-    width: 200px;
+    width: 50px;
+    border-radius: 20px;
 }
 
 .content {
