@@ -47,7 +47,7 @@ $(function () {
       createCollectable("database", 1200, 370, 0, 0)
       createCollectable("database", 650, 545, 0, 0)
       createCollectable("database", 900, 240, 0, 0)
-      createCollectable("steve", 430, 350, 0, 0)
+      createCollectable("steve", 420, 350, 0, 0)
 
 
     
