@@ -27,7 +27,7 @@ $(function () {
     //////////////////////////////////
 
     // TODO 1 - Enable the Grid
-    // toggleGrid();
+    toggleGrid();
 
 
     // TODO 2 - Create Platforms
@@ -47,6 +47,7 @@ $(function () {
       createCollectable("database", 1200, 370, 0, 0)
       createCollectable("database", 650, 545, 0, 0)
       createCollectable("database", 900, 240, 0, 0)
+      createCollectable("steve", 430, 350, 0, 0)
 
 
     
@@ -54,6 +55,8 @@ $(function () {
       createCannon("right", 610, 3500)
       createCannon("right", 700, 4000)
       createCannon("right", 300, 2000)
+      createCannon("top", 1020, 1500)
+      createCannon("top", 450, 4000)
 
     
     
