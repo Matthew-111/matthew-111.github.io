@@ -98,5 +98,8 @@ var collectableList = {
   kennedi: { image: "images/collectables/kennedi-head.png" },
   max: { image: "images/collectables/max-head.png" },
   steve: { image: "images/collectables/steve-head.png" },
-  gem: { image: ""}
+  diamondsword: { image: "images/collectables/diamondsword.webp"},
+  helmet: { image: "images/collectables/helmet.webp"},
+  chestplate: { image: "images/collectables/chestplate.webp"},
+  leggings: { image: "images/collectables/leggings.webp"},
 };

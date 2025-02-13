@@ -43,12 +43,11 @@ $(function () {
 
 
     // TODO 3 - Create Collectables
-      createCollectable("database", 900, 500, 0, 0)
-      createCollectable("database", 1200, 370, 0, 0)
-      createCollectable("database", 650, 545, 0, 0)
+      createCollectable("chestplate", 880, 500, 0, 0)
+      createCollectable("diamondsword", 1250, 360, 0, 0)
+      createCollectable("helmet", 630, 545, 0, 0)
       createCollectable("database", 900, 240, 0, 0)
-      createCollectable("steve", 420, 350, 0, 0)
-
+      createCollectable("leggings", 435, 350, 0, 0)
 
     
     // TODO 4 - Create Cannons
