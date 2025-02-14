@@ -46,7 +46,7 @@ $(function () {
       createCollectable("chestplate", 880, 500, 0, 0)
       createCollectable("diamondsword", 1250, 360, 0, 0)
       createCollectable("helmet", 630, 545, 0, 0)
-      createCollectable("database", 900, 240, 0, 0)
+      createCollectable("boots", 900, 240, 0, 0)
       createCollectable("leggings", 435, 350, 0, 0)
 
     

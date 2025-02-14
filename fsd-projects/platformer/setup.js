@@ -102,4 +102,5 @@ var collectableList = {
   helmet: { image: "images/collectables/helmet.webp"},
   chestplate: { image: "images/collectables/chestplate.webp"},
   leggings: { image: "images/collectables/leggings.webp"},
+  boots: { image: "images/collectables/boots.webp"},
 };
