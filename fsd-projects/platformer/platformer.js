@@ -27,35 +27,42 @@ $(function () {
     //////////////////////////////////
 
     // TODO 1 - Enable the Grid
-    // toggleGrid();
+    toggleGrid();
 
 
     // TODO 2 - Create Platforms
-      createPlatform(200, 700, 100, 10, "black")
-      createPlatform(400, 600, 300, 20, "black")
-      createPlatform(400, 500, 290, 10, "black")
-      createPlatform(750, 550, 200, 10, "black")
-      createPlatform(1050, 415, 300, 10, "black")
-      createPlatform(1000, 450, 10, 100, "blue")
-      createPlatform(400, 400, 100, 10)
-      createPlatform(550, 300, 500, 10)
+      createPlatform(200, 700, 100, 40, "brown")
+      createPlatform(300, 650, 100, 90, "brown")
+      createPlatform(400, 600, 100, 50, "green")
+      createPlatform(840, 570, 110, 30)
+      createPlatform(940, 380, 10, 190)
+      createPlatform(400, 250, 50, 250, "green")
+      createPlatform(400, 650, 650, 90)
+      createPlatform(500, 600, 500, 50)
+      createPlatform(1050, 700, 50, 40)
+      createPlatform(450, 250, 750, 30)
+      createPlatform(450, 220, 750, 30, "green")
+      createPlatform(550, 370, 400, 15)
+      createPlatform(450, 470, 350, 30)
+      createPlatform(1170, 280, 30, 460)
+      createPlatform(1100, 280, 70, 300)
+      createPlatform(1025, 280, 75, 230)
 
 
 
     // TODO 3 - Create Collectables
-      createCollectable("chestplate", 880, 500, 0, 0)
-      createCollectable("diamondsword", 1250, 360, 0, 0)
-      createCollectable("helmet", 630, 545, 0, 0)
-      createCollectable("boots", 900, 240, 0, 0)
-      createCollectable("leggings", 435, 350, 0, 0)
+      createCollectable("chestplate", 880, 510, 0, 0)
+      createCollectable("diamondsword", 1115, 685, 0, 0)
+      createCollectable("helmet", 480, 545, 0, 0)
+      createCollectable("boots", 880, 330, 0, 0)
+      createCollectable("leggings", 480, 420, 0, 0)
 
     
     // TODO 4 - Create Cannons
-      createCannon("right", 610, 3500)
-      createCannon("right", 700, 4000)
-      createCannon("right", 300, 2000)
-      createCannon("top", 1020, 1500)
-      createCannon("top", 450, 4000)
+      createCannon("right", 610, 4200)
+      createCannon("right", 400, 3700)
+      createCannon("top", 1040, 1500)
+      createCannon("top", 560, 4200)
 
     
     
