@@ -75,7 +75,7 @@
 			var speedX = 5;
 			var speedY = 5;
 			var boardHeight = jQuery(window).height();
-			var randNum = Math.random() * 100;
+			
 
 			/* 
 			This Function will be called 20 times/second. Each time it is called,
@@ -98,6 +98,7 @@
 				else if (positionY < 0) {
 					speedY = speedY * -1;
 				}
+				
 			};
 
 			/* 
@@ -111,6 +112,8 @@
 				changeBoxText(points);
 				speedX = 2 * points + 5;
 				speedY = 2 * points + 5;
+				
+				
 			};
 
 
